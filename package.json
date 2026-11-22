@@ -1,0 +1,22 @@
+{
+  "name": "assignment-5-express-middleware",
+  "version": "1.0.0",
+  "description": "Lab Practical: Implementation and Execution of Middleware in Node.js using Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "logging",
+    "authentication",
+    "authorization"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
